@@ -1,3 +1,7 @@
+![Queendom — N.White Systems engineering portfolio](assets/portfolio-brand.svg)
+
+[Portfolio overview](https://github.com/whitemorengwira) · [All case studies](https://github.com/whitemorengwira/nwhitesystems) · [N.White Systems](https://nwhite.systems/)
+
 # Queendom — Production Engineering & Workflow Architecture
 ## BET Africa · DStv Channel 129 · Film & TV · Client: Clive Morris Productions & Paramount Africa
 
